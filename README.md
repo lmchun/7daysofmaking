@@ -1,4 +1,4 @@
-# 7 Weeks of Questionable Passthrough
+# 7 Weeks of Questionable Passthrough and XR
 
 ## This is a better log of what I am doing this summer
 
@@ -31,4 +31,9 @@ Passthrough Starting [Skarredghost](https://skarredghost.com/2021/10/01/how-to-p
 - Step 3 - Brainstorm what I will make
 (secrets to be documented as the week goes on)
 
+June 14th
+Today I downloaded Lens Studio to start looking into how to make lenses.
+
+Research Youtube Videos:
+TBA
 
