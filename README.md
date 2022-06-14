@@ -8,7 +8,7 @@ Today I decided to either go with AR snapchat lenses or Passthrough VR.
 - Step 1 make a new unity project.
 
 Links:
-[https://skarredghost.com/2021/10/01/how-to-passthrough-ar-oculus-quest-unity/#:~:text=To%20do%20that%20you%20have%20to%20add%20in,the%20passthrough%20as%20a%20special%20OVROverlay%20at%20runtime.] (Passthrough Starting)
+Passthrough Starting [https://skarredghost.com/2021/10/01/how-to-passthrough-ar-oculus-quest-unity/#:~:text=To%20do%20that%20you%20have%20to%20add%20in,the%20passthrough%20as%20a%20special%20OVROverlay%20at%20runtime.] (Skarredghost)
 
 
 [https://developer.oculus.com/documentation/unity/unity-passthrough/] (Oculus' Passthrough Info)
