@@ -32,7 +32,8 @@ Passthrough Starting [Skarredghost](https://skarredghost.com/2021/10/01/how-to-p
 (secrets to be documented as the week goes on)
 
 June 14th
-Today I downloaded Lens Studio to start looking into how to make lenses.
+Today I looked into more passthrough customization and what possibilities there can be.
+I also downloaded Lens Studio to start looking into how to make lenses.
 
 Research Youtube Videos:
 TBA
